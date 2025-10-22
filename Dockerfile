@@ -20,6 +20,6 @@ COPY . .
 EXPOSE 8000
 
 # Command to run your app (adjust if you use Flask, FastAPI, etc.)
-CMD ["python", "app.py"]
+CMD ["python", "backend.py"]
 
 
